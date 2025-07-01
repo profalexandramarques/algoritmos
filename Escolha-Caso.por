@@ -6,7 +6,7 @@ programa
 		escreva("1) Cadastro contato \n")
 		escreva("2) Alterar contato \n")
 		escreva("3) Excluir contato \n")
-    escreva("4) Sair \n\n")		
+                escreva("4) Sair \n\n")		
 		escreva("Escolha uma opção: ")
 		leia(opcao)
 		escolha (opcao)	
